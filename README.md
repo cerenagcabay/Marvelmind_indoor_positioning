@@ -31,7 +31,6 @@ Sistem, **Time of Flight (ToF)** ve **Trilaterasyon** prensiplerinden yararlanar
 | Ultrasonik Beacon'lar | Mesafe ve konum belirleme |
 | Lazer Mesafe Ölçer | Fiziksel referans ölçümleri |
 | Hassas Çelik Şerit Metre | Koordinat ve mesafe ölçümleri |
-| Dijital Su Terazisi | Fiziksel yerleşim ve hizalama |
 
 ## 4. Kullanılan Yazılımlar ve Teknolojiler
 
