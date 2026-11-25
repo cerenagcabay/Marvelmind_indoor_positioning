@@ -20,24 +20,23 @@
 
 9. Popleteev, A. (2016). Indoor positioning and floor plan based ground truth: Can you really click where you are? In *Proceedings of the 15th International Conference on Mobile and Ubiquitous Multimedia (MUM 2016)*. Association for Computing Machinery. https://doi.org/10.1145/3012709.3012737
 
-10. Almeida, R. T. (2018). *Sistema de localização para um drone autónomo com aplicação em ambientes interiores* [Indoor positioning system for an autonomous drone] [Master's thesis, Universidade de Aveiro].
 
 ## 2. Beacon Placement Optimization and Sensor Fusion
 
-11. Famili, A., Stavrou, A., Wang, H., & Park, J.-M. J. (2024). OPTILOD: Optimal beacon placement for high-accuracy indoor localization of drones. *Sensors, 24*(6), 1865. https://doi.org/10.3390/s24061865
+10. Famili, A., Stavrou, A., Wang, H., & Park, J.-M. J. (2024). OPTILOD: Optimal beacon placement for high-accuracy indoor localization of drones. *Sensors, 24*(6), 1865. https://doi.org/10.3390/s24061865
 
-12. Dai, J. B., Fu, Q., & Lee, N. K. S. (2013). Effect of beacon orientation on beacon placement strategies in the ultrasonic positioning system. *Robotics and Autonomous Systems, 61*(6), 648–658. https://doi.org/10.1016/j.robot.2013.01.002
+11. Dai, J. B., Fu, Q., & Lee, N. K. S. (2013). Effect of beacon orientation on beacon placement strategies in the ultrasonic positioning system. *Robotics and Autonomous Systems, 61*(6), 648–658. https://doi.org/10.1016/j.robot.2013.01.002
 
-13. Ruan, L., Zhang, L., Cheng, F., & Long, Y. (2018). The global optimal placement of BLE beacon for localization based on indoor map. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4*, 529–534. https://doi.org/10.5194/isprs-archives-XLII-4-529-2018
+12. Ruan, L., Zhang, L., Cheng, F., & Long, Y. (2018). The global optimal placement of BLE beacon for localization based on indoor map. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4*, 529–534. https://doi.org/10.5194/isprs-archives-XLII-4-529-2018
 
-14. Pan, H., Qi, X., Liu, M., & Liu, L. (2022). Indoor scenario-based UWB anchor placement optimization method for indoor localization. *Expert Systems with Applications, 205*, 117723. https://doi.org/10.1016/j.eswa.2022.117723
+13. Pan, H., Qi, X., Liu, M., & Liu, L. (2022). Indoor scenario-based UWB anchor placement optimization method for indoor localization. *Expert Systems with Applications, 205*, 117723. https://doi.org/10.1016/j.eswa.2022.117723
 
-15. Mannay, K., Ureña, J., Hernández, Á., Villadangos, J. M., Machhout, M., & Aguili, T. (2021). Evaluation of multi-sensor fusion methods for ultrasonic indoor positioning. *Applied Sciences, 11*(15), 6805. https://doi.org/10.3390/app11156805
+14. Mannay, K., Ureña, J., Hernández, Á., Villadangos, J. M., Machhout, M., & Aguili, T. (2021). Evaluation of multi-sensor fusion methods for ultrasonic indoor positioning. *Applied Sciences, 11*(15), 6805. https://doi.org/10.3390/app11156805
 
-16. Li, C., Zhang, C., Chen, B., Xu, S., Xu, L., & Yan, B. (2024). Ultrasonic array-based multi-source fusion indoor positioning technology. *Sensors, 24*(20), 6641. https://doi.org/10.3390/s24206641
+15. Li, C., Zhang, C., Chen, B., Xu, S., Xu, L., & Yan, B. (2024). Ultrasonic array-based multi-source fusion indoor positioning technology. *Sensors, 24*(20), 6641. https://doi.org/10.3390/s24206641
 
-17. Wu, H., Liu, Z., Hu, J., & Yin, W. (2020). Sensor placement optimization for critical-grid coverage problem of indoor positioning. *International Journal of Distributed Sensor Networks, 16*(12). https://doi.org/10.1177/1550147720979922
+16. Wu, H., Liu, Z., Hu, J., & Yin, W. (2020). Sensor placement optimization for critical-grid coverage problem of indoor positioning. *International Journal of Distributed Sensor Networks, 16*(12). https://doi.org/10.1177/1550147720979922
 
-18. Domingo-Pérez, F., Lázaro-Galilea, J. L., Bravo, I., Gardel, A., & Rodríguez, D. (2016). Optimization of the coverage and accuracy of an indoor positioning system with a variable number of sensors. *Sensors, 16*(6), 934. https://doi.org/10.3390/s16060934
+17. Domingo-Pérez, F., Lázaro-Galilea, J. L., Bravo, I., Gardel, A., & Rodríguez, D. (2016). Optimization of the coverage and accuracy of an indoor positioning system with a variable number of sensors. *Sensors, 16*(6), 934. https://doi.org/10.3390/s16060934
 
-19. Cho, J., & Lee, B. (2024). Optimal layout of four anchors to improve accuracy of ultra-wide band based indoor positioning. *Expert Systems with Applications, 255*, 124808. https://doi.org/10.1016/j.eswa.2024.124808
+18. Cho, J., & Lee, B. (2024). Optimal layout of four anchors to improve accuracy of ultra-wide band based indoor positioning. *Expert Systems with Applications, 255*, 124808. https://doi.org/10.1016/j.eswa.2024.124808
